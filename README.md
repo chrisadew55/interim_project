@@ -40,4 +40,4 @@ The results can be summarized as follows:
 3. The highest average revenue occurred in 1999 (primarily Mountain bikes)
 
 ### Presentation
-Included in this repository as a PDF file.
+Included in this repository as a PDF file (created by me using Canva).
