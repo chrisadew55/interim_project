@@ -12,12 +12,12 @@
 ### Project brief
 Worked in a group of 5 people to answer a set of questions using the AdventureWorks dataset, using our combined knowledge of SQL, Python, and data analytics to investigate and answer the following questions: 
 
-- What are the regional sales in the best performing country?
-- What is the relationship between annual leave taken and bonus?
-- What is the relationship between Country and Revenue?
-- What is the relationship between sick leave and Job Title (PersonType)?
-- What is the relationship between store trading duration and revenue?
-- What is the relationship between the size of the stores, number of employees and revenue?
+1. What are the regional sales in the best performing country?
+2. What is the relationship between annual leave taken and bonus?
+3. What is the relationship between Country and Revenue?
+4. What is the relationship between sick leave and Job Title (PersonType)?
+5. What is the relationship between store trading duration and revenue?
+6. What is the relationship between the size of the stores, number of employees and revenue?
 
 Question 5 was the question I was tasked with answering.
 
