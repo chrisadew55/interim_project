@@ -10,7 +10,7 @@
 ---
 
 ### Project brief
-Worked in a group of 5 people to answer a set of questions using the AdventureWorks dataset, using our combined knowledge of SQL, Python, and data analytics to investigate and answer the following questions: 
+I worked in a group with 4 other people to answer a set of questions using the AdventureWorks dataset, using our combined knowledge of SQL, Python, and data analytics to investigate and answer the following questions: 
 
 1. What are the regional sales in the best performing country?
 2. What is the relationship between annual leave taken and bonus?
