@@ -10,7 +10,7 @@
 ---
 
 ### Project brief
-I worked in a group with 4 other people to answer a set of questions using the AdventureWorks dataset, using our combined knowledge of SQL, Python, and data analytics to investigate and answer the following questions: 
+I worked in a group with 4 other people and using our combined knowledge of SQL, Python, and data analytics, our brief was to investigate and answer the following questions on the AdventureWorks dataset: 
 
 1. What are the regional sales in the best performing country?
 2. What is the relationship between annual leave taken and bonus?
@@ -25,16 +25,16 @@ Question 5 was the question I was tasked with answering.
 The primary dataset used for this analysis: The AdventureWorks2019 demo database.
 
 ### Tools and concepts used
-- SQL (SQL Server)
+- T-SQL (SQL Server)
 - Python
 - Selecting columns from a table
 - Filtering rows and grouping data
 - Using aggregate functions
 - Performing calculations on groups of rows
-- Pandas, NumPy and Matplotlib 
+- Pandas, NumPy, Matplotlib and Seaborn
 
 ### Findings
-The results can be summarized as follows:
+The results for Q5 can be summarized as follows:
 1. No correlation between trading duration and revenue
 2. The lowest average revenue occurred in 1973
 3. The highest average revenue occurred in 1999 (primarily Mountain bikes)
